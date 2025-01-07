@@ -28,7 +28,7 @@ By tuning into body mechanics dancers can prevent injuries and sustain energy th
 
 - [[Posture]] (Posture is the positioning of the individual in relationship with the ground.)
 - [[Alignment]] (alignment of bones, musculature in counter of outside forces.)
-- [[Shaping]] - A change of frame that modifies the shape of the body or the shape of the flow of movement to a new shape that is different from the default alignment of the partnership.  This can be for artistic or functional purposes.   
+- [[Shaping]]
 - [[Swing & Sway]]
 - [[Body Awareness]]
 - [[Side & Back Body]]

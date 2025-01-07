@@ -12,7 +12,7 @@ This is done when about to collide with an external object be that other dancers
 
 #### Component Principles
 [[Association Gradient]]
-[[Pillar of Floorcraft]]
+<a href="Pillar of Floorcraft" class="internal-link">Pillar of Floorcraft</a>
 [[Connection Points]]
 [[First Partner]]
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - frame
+---
 [[Pillars]]
 
 ##### *What is Frame?:*  

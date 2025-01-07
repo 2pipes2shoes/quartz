@@ -1,1 +1,6 @@
-#fordevelopment 
+#inprogress  
+Seek is a prep for activating connection at potential connection points.  This prep is created through a continuously adaptive alignment of a dancer’s body with the trajectory of the connection point.  This alignment lets your partner know you're available for connection with the connection points that you are seeking into.  Seek communicates each dancer’s understanding of the connection.  It also aligns their bodies to most efficiently initiate and incorporate energy.  Seek helps to shift the priority of the connection from being between the dancer's center and the ground to the connection between the two dancer’s centers.
+
+Mechanically seek is achieved by moving your center of gravity slightly towards the connection(compression) or away(leverage) from the connection point while in opposition, reaching into and aligning your muscular skeletal structure with the potential connection point (with your hand, shoulder, leg, etc) without investing your center.
+
+The felt sense of seek is similar to reaching for something while standing on a ladder - you're holding your center into the ladder so you don't fall (you're maintaining your own center - not investing it with your partner) while extending a hand to reach away from your center to potentially "connect" with what you're reaching for.
