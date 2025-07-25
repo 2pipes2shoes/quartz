@@ -1,0 +1,10 @@
+- All above [[Pillars]]
+- [[Sagittal plane]] (up and down / flexion and extension)    
+- [[Frontal Plane]] (adduction and abduction /side to side movement)
+- [[Transverse Plane]] (rotation)
+- [[Velocity]]
+- [[Time]]
+- [[Spirals]]
+- [[Bowing and Warping]]
+- [[Precision Leads]]
+- See Musicality - Polyrhythms and Multi Rhythms
