@@ -15,3 +15,4 @@ Dancing in a compatible way for another party to understand is important.  It a
 - [[Impetus]]
 - [[Matching & Mimicking]]
 - [[Calibrating]] to partner’s [[Proprioceptive Awareness]].  What can they feel or not through the connection point.
+- [[The Grand Bridging Analogy]]

@@ -47,7 +47,7 @@ d. No defined roles - Lead and follow roles can become unnecessary and completel
 - Changes of [[Connection Points|Connection Point]].
 - [[Bowing]]
 - [[Presence]]
-- [[Engagement/Relaxation]]
+- [[Relaxation]]
 - [[Parallel Motion Lead]] (PML) - A Parallel Motion Lead is the second primary initiation type.  PML’s move the shared center in a unified direction, with both dancers moving their individual centers along the same or a parallel line.  
 - An Initiation that maintains the relationship between the initiator and incorporator while adding energy to move the whole frame/partnership.
 - [Impetus Lead](https://docs.google.com/document/d/1rmS8eO_F8f5B-4K9Zg4YYCjJAMfZA5e-Ajd4cgQfFLs/edit?usp=sharing) (IL) - An Impetus Lead uses a pulse of energy delivered with relaxation and initiation in order to intentionally create a delay in incorporation.  This delay allows dancers to initiate relaxed flow with potentially rippling effects through different shapes of the body.

@@ -19,9 +19,9 @@ Frame provides a default pathway of connection from one dancer's center to anoth
 
 #### Concepts for further exploration within Frame include:
 - [[Positioning]], [[Offset]], & [[Squaring]] relative to partner
-- [[Skeletal/Tone based]] vs. [[Relaxed Frames]] (contact improv)
+- [[Tone based Frame]] vs. [[Relaxed Frames]] (contact improv)
 - [[Leverage Based Frames]]
-- [[Compression Based Frames]]
+- [[Compression Based Frame]]
 - [[Fixed & Dynamic Frames]]
 - [[Shoulder & Back Engagement]]
 - [[Head & neck Positioning]]

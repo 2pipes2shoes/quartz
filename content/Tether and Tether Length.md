@@ -1,5 +1,9 @@
+---
+aliases:
+  - tether
+---
 #inprogress 
-Tether Length is an [[association]] principle in [[Leverage Based Frames]].  
+Tether Length is an [[Pillar of Association|Association]] principle in [[Leverage Based Frames]].  
 
 This type of connection uses relaxed tonality with a fixed maximum distance to create association.
 > For example:
@@ -19,7 +23,8 @@ Reduced Tether length can be achieved in two ways.
 > 			It is important to engage this in an isolated manner so all other muscles in the tether are relaxed.  This allows tether principles to apply while maintaining the reduced tether.
 > 		Relaxing completely making the weight apply better.
 
-It is important to apply muscular engagement before exceeding the planned length of the tether.  Using muscular engagement in the tether to shorten it creates a situation of a 2x speed forced readjustment of the frame that follow must compensate for.  This is almost universally harsh on the follower and is known as [[rocket leading]] see [[force leading]].
+
+It is important to apply muscular engagement before exceeding the planned length of the tether.  Using muscular engagement to an extended the tether to shorten it will cause your partner to match leading to a doubling of the force you applied.  This creates a situation of forced readjustment of the frame that the incorporator must compensate for.  This compensation is forced into the incorporator and creates a multiplicative amount of force risking injury.  This is almost universally harsh on the incorporator and is known as [[Rocket Leading]] see [[Force Leading]].
 
 Advantages of using tether to build association include:
 1. Allowing default relaxation for depth of communication. 
@@ -28,7 +33,7 @@ Advantages of using tether to build association include:
 4. High energy potential at the end of tethers due to 100% association with less musculature active to tire out.
 
 Disadvantages of Tethers
-1. Vulnerability in said relaxation if a party tries to force lead something.  [[Defencive Dancing]]
+1. Vulnerability in said relaxation if a party tries to force lead something.  [[Defensive Dancing]]
 2. Little to no potential to initiate in directions not aligned with said tether.
 3.  Little ability to control [[Eddy Forces]] in the connection.
 	- You maintain the ability to control such internal to each partner's body.
@@ -40,6 +45,11 @@ Overall Tethers are a useful but not universally applicable skill that allows fo
  >	Lindy  - Swing out or Circle
  >	Waltz Foxtrot Polka - Pivots
 
+Ideas for Further Exploration:
+[[Defensive dancing]]
+[[Relaxation]]
+[[Association]]
+[[Association Gradient]]
 
 
 

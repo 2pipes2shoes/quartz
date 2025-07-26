@@ -15,4 +15,5 @@ This is done when about to collide with an external object be that other dancers
 <a href="Pillar of Floorcraft" class="internal-link">Pillar of Floorcraft</a>
 [[Connection Points]]
 [[First Partner]]
-
+[[Tension]]
+[[Tone]]

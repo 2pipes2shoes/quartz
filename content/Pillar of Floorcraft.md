@@ -16,6 +16,6 @@ Concepts for further exploration within Floorcraft include:
 - [[Moving Backwards Safely]]
 - [[Line of Dance and Right of Way]] in moving dances
 - [[Momentum Absorption]] and [[Redirection]] as navigation tools
-- [[Stops and Freezes]] as “[[Emergency Bakes]]”
+- [[Stops and Freezes]] as “[[Emergency Brakes]]”
 - [[Redirects]]
 - [[Communicating with fellow dancers and organizers about Floorcraft]]

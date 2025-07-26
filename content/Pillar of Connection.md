@@ -16,6 +16,7 @@ Continuously sending communication through a connection point lets your partner 
  - [[Connection Points]]  (primary, alternative, lower and leg, rolling and traveling connection points).
  - [[Leverage]] 
  - [[Compression]]
- - [[The Speed of Connection]] (moving at the speed your partner is able to match in real time without lag.)
- - [[Lag]] (extending from your center of gravity into the connection point)
- - [[Seek]] (extending from your center of gravity into the connection point)
+ - [[The Speed of Connection]]
+ - [[Lag]] 
+ - [[Seek]]
+

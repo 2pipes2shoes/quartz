@@ -20,6 +20,18 @@ e.       Absorbing to Connection: Absorbing momentum energy with a gradual st
 ##### *Why Momentum Matters:*
 Because dance is a movement based artform, momentum is essential for dance.  By creating and interacting with momentum, dancers move through space to express themselves and connect with their partners (gravity, each other, and music).
 
+Momentum continues in a line unless acted on by an outside force.
+Partner dance has two kinds of momentum.
+
+Directional Momentum
+This momentum continues in a line unless acted on by an outside force.  This line conforms to the curvature of space created by the gravity well of the earth and any other bodies you consider relevant. 
+
+Rotational Momentum
+This momentum is created when components of an attached body have differing momentums.  This causes both components to orbit around eachother as both directional momentums are maintained but translate through the connection between. 
+
+Friction
+In partner dance there is friction in the atmosphere, the floor, [[Pillar of Body Mechanics|Body Mechanics]], [[Lag]], and [[Validation]] through [[Confidence]].  Dancers try to keep friction predictable.  This often means counteracting friction.
+
 #### Concepts for further exploration within Momentum include:
 
 - [[Waves]] and moving energy inside your own body
@@ -35,3 +47,6 @@ Because dance is a movement based artform, momentum is essential for dance.  By
 - Using [[Impetus]] to safely lead shared [[Issolations]] and percussive movements    
  - Using [[Impetus]] for [[Redirection]] and [[Styling]]
 - [Impetus based leads](https://docs.google.com/document/d/1rmS8eO_F8f5B-4K9Zg4YYCjJAMfZA5e-Ajd4cgQfFLs/edit?usp=sharing)
+
+
+

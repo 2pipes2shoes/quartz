@@ -23,7 +23,6 @@ For Example  use this symbol>
 To make an alias you need to:
 
 
-
 #### Ideas to possibly incorporate into working document:
 
 You are asking two different things. First, how to link to blocks in other notes, and also how to create an alias for a link.

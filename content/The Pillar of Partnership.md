@@ -15,6 +15,10 @@ a.       1st Partner – Your center of gravity 
 
 Your first connection is between your center of gravity and the floor.  It is your body’s interactions with gravity.  Your 1st partner is always present, and if you need to maintain your own movement integrity and safety, you can reconnect with your 1st partner by grounding or returning to your own center.  (This concept is from a [[Contact Improv]] dance technique pool).
 
+-Grounding
+-Compression with the ground
+-Association as it relates to self
+
 b.       2nd Partner – Dance partner(s) 
 
 Your second connection is with a dance partner (usually another dancer, but sometimes interactive object(s) or external architecture(s) (ie. pole dancing, juggling, etc.).  A dancer forms this connection by first creating a connection point.  Then actively initiating and interpreting through that connection to participate in a two way conversation.  With this type of giving and receiving communication you can co-create a mutually invested improvisational partner dance.  (See [[Pillar of Connection]]).

@@ -1,3 +1,8 @@
+---
+aliases:
+  - aesthetics
+  - aesthetic
+---
 [[Pillars]]
 ##### *What is Aesthetic Choice:*
 Partner dance steps are specific foot movement patterns done to specific counts or rhythms.  Styling is an aesthetic embellishment that can be added on to dance moves.   
@@ -6,7 +11,7 @@ Partner dance steps are specific foot movement patterns done to specific counts 
 Steps and styling can be used to maintain a relationship with the music, your partner, and the flow of dance across the dance floor.  They are often used as building blocks to arrive at other core principles of partner dance.
 
 ##### *Why Aesthetic Choice: 
-Some of the defining characteristics that shape the look and feel of specific partner dances are their steps and styling.  Steps and styling can be used to accentuate defining characteristics of a dance style, or to create a unique look, feel, or identity.     
+Some of the defining characteristics that shape the look and feel of specific partner dances are their steps and styling.  Steps and styling can be used to accentuate defining characteristics of a dance style, or to create a unique look, feel, or identity.
 
 ##### Concepts for further exploration within Steps & Styling include:
 
@@ -19,4 +24,4 @@ Some of the defining characteristics that shape the look and feel of specific pa
 - [[Contrast/Dynamic range of movement]]
 - [[Texture]]
 - [[Step placement]] relative to partner
-- [[Solo Issolations]]
+- [[Solo Isolations]]

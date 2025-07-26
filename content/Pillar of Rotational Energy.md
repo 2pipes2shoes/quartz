@@ -58,7 +58,7 @@ Concepts for further exploration within Rotational Energy include:
 - [[Increasing & Decreasing Radius Turns]]
 - [[Inside and Outside Turns]]
 - [[Traveling & Stationery Turns]]
-- [[Tether Length]] & [[Tone]] 
+- [[Tether and Tether Length]] & [[Tone]] 
 - Holding your own [[Axis/Center Line]]
 - [[Turning Radius]] vs. [[Turning Diameter]] (weathervane vs. around the axis)
 - Initiation and Incorporation in [[Dynamic Turns]]
@@ -68,7 +68,7 @@ Concepts for further exploration within Rotational Energy include:
 - [[Pivot Turns]]
 - [[Chainé Turns]]
 - [[Paddle Turns]]
-- [[Crank Turns]]
+- [[Additive Turns (aka Crank Turns or One Footed Spins)]]
 - Additional?????? #fordevelopment 
 - [[Body Styling]] through turns
 - [[Bowing]]
@@ -79,7 +79,7 @@ Concepts for further exploration within Rotational Energy include:
 - [[Balance]]
 - [[Association Gradient]]
 - [[Moment of Inertia]]
-- [[Tether length]]
+- [[Tether and Tether Length]]
 - [[Containerizing Turns]] - every turn needs an end point
 - Maintaining relaxed connection through turns - follow the follow
 - [[Finite Turn Theory]] and [[Infinite Turn Theory]]
