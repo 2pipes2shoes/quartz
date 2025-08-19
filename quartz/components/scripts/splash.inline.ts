@@ -27,8 +27,13 @@ function createSplashOverlay() {
   overlay.innerHTML = `
     <div class="splash-content">
       <div class="splash-inner">
-        <h1>Welcome to the Site</h1>
-        <p>Thanks for visiting! This message will only appear once.</p>
+        <h1>Welcome to the Fusion Framework</h1>
+        <p>This message will only apear every few weeks or every time you clear your cookies</p>
+        <p>We put a lot of effort into this massive database of techneque</p>
+        <p>Please share and use this database for your learning process. Please reach out to Dynamicdancers@gmail.com if you want to use this for classes and teaching.</p>
+        <p>Please donate if you are able to here: </p>
+        <p>Please hire us to teach at your gathering, venue, or event as well as for private lessons</p>
+        <p>We are based in California but travel and teach</p>
         <button id="splash-continue" class="splash-button">Continue to Site</button>
       </div>
     </div>
