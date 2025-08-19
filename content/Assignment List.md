@@ -1,7 +1,6 @@
 ---
-title: "draft: true"
+"draft:": "draft: true"
 ---
-
 Amber,  
 Working on Attention
 Swing and Sway
