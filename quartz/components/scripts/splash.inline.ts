@@ -34,7 +34,7 @@ function createSplashOverlay() {
         <p>Please donate if you are able to here: </p>
         <p>Please hire us to teach at your gathering, venue, or event as well as for private lessons</p>
         <p>We are based in California but travel and teach</p>
-        <button id="splash-continue" class="splash-button">Continue to Site</button>
+        <button id="splash-continue" class="splash-button">Get a cookie that hides this page from you for two weeks</button>
       </div>
     </div>
   `
