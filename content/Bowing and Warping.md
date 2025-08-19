@@ -5,7 +5,7 @@ The reason we use an extended arc is to maintain safety.  The body and especiall
 Thus Bowing and warping allow much play towards shaping ideals while still allowing an elongation understanding as a catchall for injurious motions.
 
 Bowing and warping are arguably one of the two ways to counter [[Stirring]] though there are limits.
-![[Bowing action.gif]]
+![[Bowing action 1.gif]]
 Topics for Further Consideration:
 [[Shaping]]
 [[Shaping Lead]]

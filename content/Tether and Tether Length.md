@@ -48,7 +48,7 @@ Overall Tethers are a useful but not universally applicable skill that allows fo
 Ideas for Further Exploration:
 [[Defensive dancing]]
 [[Relaxation]]
-[[Association]]
+[[Pillar of Association]]
 [[Association Gradient]]
 
 

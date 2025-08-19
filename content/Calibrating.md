@@ -5,7 +5,7 @@ At the start of any dance dancers who [[Pillar of Bridging|Bridge]] spend some t
 
 This calibration is often different for each person and adjust from the default to match the newly calibrated model.
 
-Experienced dancers tend to through a piece of every active dimension into their calibration.
+Experienced dancers tend to throw a piece of every dimension into their calibration to activate or notice its locked state of activation.
 This can open the door for said dimensions to be easily accessed during the dance as well as marking any that do not activate.
 
 
