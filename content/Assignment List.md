@@ -1,5 +1,5 @@
 ---
-"draft:": "draft: true"
+draft: "true"
 ---
 Amber,  
 Working on Attention
