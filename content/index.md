@@ -2,6 +2,7 @@
 aliases:
   - Welcome
 Title: Welcome
+tags:
 ---
 
 [[Pillars]]
