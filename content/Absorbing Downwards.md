@@ -1,4 +1,4 @@
-	#inprogress 
+#inprogress 
 >A . Solo
 1. Person moves their lower body ahead of their upper body in the direction of the momentum.
 2. Person engages along the line of the body in direction of the momentum.
