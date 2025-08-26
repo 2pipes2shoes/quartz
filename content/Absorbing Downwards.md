@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-	#inprogress 
-=======
 #inprogress 
->>>>>>> parent of 612f917 (Quartz sync: Aug 25, 2025, 6:08 PM)
 >A . Solo
 1. Person moves their lower body ahead of their upper body in the direction of the momentum.
 2. Person engages along the line of the body in direction of the momentum.
