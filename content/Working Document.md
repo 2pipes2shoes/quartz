@@ -18,7 +18,11 @@ For Example  use this symbol>
 >  like this
 
 
+<<<<<<< HEAD
 [[Welcome]]
+=======
+[[Index]]
+>>>>>>> parent of 612f917 (Quartz sync: Aug 25, 2025, 6:08 PM)
 
 To make an alias you need to:
 
