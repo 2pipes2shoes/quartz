@@ -1,2 +1,0 @@
-
-Association is a connection principle

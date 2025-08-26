@@ -1,8 +1,3 @@
----
-aliases:
-  - Relaxed
-  - Relax
----
 #inprogress
 
 
