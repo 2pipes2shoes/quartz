@@ -1,7 +1,6 @@
 ---
 title: Welcome
 ---
-# Welcome 
 
 ### Jump Right in Here: [[Pillars]]
 ### [[How to Use This]]
