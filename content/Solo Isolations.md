@@ -1,1 +1,0 @@
-Solo Isolations are distinctly different from partner isolations.  

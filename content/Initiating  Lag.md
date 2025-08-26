@@ -1,1 +1,0 @@
-Lag we usually thing of as a follower principle.  

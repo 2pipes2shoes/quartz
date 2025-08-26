@@ -18,7 +18,7 @@ For Example  use this symbol>
 >  like this
 
 
-[[Index]]
+[[Welcome]]
 
 To make an alias you need to:
 
