@@ -3,7 +3,7 @@ Any object has a Center of Weight (CoW.  In dance we use this awareness to maint
 With out whole body our CoW tends to be around our hips specifically between our tailbone and or belly button favoring the tail bone. This is a little more down and back then most expect.  CoW does vary depending on [[Body Type]]. 
 
 Awareness of the CoW is used in countless aspects of partner dance a few notable of which are:
-[[Weight sharing]], [[Pillar of Rotational Energy]], [[Pillar of Initiation and Incorperation]], [[Grounding]], [[Axis/Center Line]]
+[[Weight sharing]], [[Pillar of Rotational Energy]], [[Pillar of Initiation and Incorporation]], [[Grounding]], [[Axis/Center Line]]
 
 
 
@@ -19,7 +19,7 @@ Ideas for Further Consideration:
 [[Bowing and Warping]]
 [[Pillar of Association|Association]]
 [[Mechanics]]
-[[Pillar of Initiation and Incorperation]]
+[[Pillar of Initiation and Incorporation]]
 [[Leverage]]
 [[Compression]]
 [[Turning Radius]]
