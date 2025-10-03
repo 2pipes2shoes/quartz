@@ -11,7 +11,7 @@ In specific dance technique pools outside of Fusion, the default posture and fra
 
 Related Points:
 [[Default Posture List]]
-[[ Alignment]]
+[[Alignment]]
 [[Shaping]]
 [[Two Way Communication]]
 

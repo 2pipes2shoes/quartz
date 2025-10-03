@@ -1,4 +1,4 @@
-Counterbalance is a resting point in [[Leverage Based Frames|Leverage Based Frame]] that is a basis for a category of moves.  It can also be used at times to refer to the moves themselves.  
+Counterbalance is a resting point in [[Leverage Based Frame|Leverage Based Frame]] that is a basis for a category of moves.  It can also be used at times to refer to the moves themselves.  
 Counterbalance refers to the equalization in apposing forces as a balance point.  This allows stabilization and control while doing moves requiring or accentuated by this counterbalance.  This is used in many slow single axis turns as well as stylized pauses such as [[Anchors]] or [[counterbalance dips]].  At higher level the skills learned their can extend into [[Off Axis]] moves that destabilize the counterbalance to create additional speed.
 
 Theoretically counterbalance is simply leverage based frame.  However arranging and maintaining a fixed amount of counterbalance limits the number of variables and [[dimensions]] that are active in already exceedingly complex an difficult moves.

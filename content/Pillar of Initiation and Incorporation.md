@@ -1,3 +1,8 @@
+---
+aliases:
+  - Initiation and Incorporation
+---
+
 [[Pillars]]
 ##### *What is Initiation (Lead) and Incorporation (Follow)?:* 
 Initiation and Incorporation, more commonly known as Lead and Follow, are counterbalanced roles on a spectrum of role possibilities in fusion partner dance.  

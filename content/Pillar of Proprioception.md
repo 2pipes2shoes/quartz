@@ -18,5 +18,5 @@ Proprioception enables dancers to feel and match each other’s physical connect
 - [[Projection]]
 - [[Presence]]
 - [[Compression Based Frame]]
-- [[Leverage Based Frames]]
+- [[Leverage Based Frame]]
 - Connection, [[Tone]], and [[Frame Matching]]

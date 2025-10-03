@@ -46,3 +46,4 @@ By tuning into body mechanics dancers can prevent injuries and sustain energy th
 - [[Bells & Bowls]] or [[Shelves]] of the body
 - [[Step Patterns]] governed by mechanics (not choreography)
 - [[Springs]] (aka The Myostatic Reflex)
+- [[Central alignment]]

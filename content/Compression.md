@@ -9,4 +9,4 @@ We use Compression instead of other terms as it has no direct association with m
 [[Compression]]
 [[Change of Frame Lead]]
 [[Tether and Tether Length]]
-[[Leverage Based Frames|Leverage Based Frame]]
+[[Leverage Based Frame|Leverage Based Frame]]

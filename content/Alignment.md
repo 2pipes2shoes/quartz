@@ -7,4 +7,6 @@ We will be referring to the main one used in partner dance on this page.  The al
 [[Alignment of Intention]]
 
 Now lets focus on mechanical alignment.
+
+[[Central alignment]]
  

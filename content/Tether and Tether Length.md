@@ -3,7 +3,7 @@ aliases:
   - tether
 ---
 #inprogress 
-Tether Length is an [[Pillar of Association|Association]] principle in [[Leverage Based Frames]].  
+Tether Length is an [[Pillar of Association|Association]] principle in [[Leverage Based Frame]].  
 
 This type of connection uses relaxed tonality with a fixed maximum distance to create association.
 > For example:

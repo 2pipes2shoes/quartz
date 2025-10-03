@@ -18,7 +18,7 @@ For Example  use this symbol>
 >  like this
 
 
-[[Index]]
+[[index]]
 
 To make an alias you need to:
 
@@ -42,7 +42,7 @@ Which was produced by this text:
 
 
 
-
+Do we want graph view on website to have just 1 degree of separation?  check before release.  Currently set at 2
 
 Creating a new quartz version.
 Copy and past vault files to quartz content file in one drive

@@ -36,7 +36,7 @@ In partner dance there is friction in the atmosphere, the floor, [[Pillar of Bod
 
 - [[Waves]] and moving energy inside your own body
 - [[Generating your own Momentum]]
-- Safely catching & [[redirecting]] partner’s momentum
+- Safely catching & [[Redirecting]] partner’s momentum
 - Different [[Connection Points]]
 - Safe angles of applied pressure and [[Catches]]
 - Transferring and absorbing momentum

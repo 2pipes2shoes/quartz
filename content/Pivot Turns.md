@@ -1,0 +1,2 @@
+Pivot turns are a type of rotation done with two bodies turning in the same rotation.
+They are characterized by a lowering of the [[shared center]], the lower body being closer, and a static positioning of the bodies in relation to each other.  This allows a turn that 

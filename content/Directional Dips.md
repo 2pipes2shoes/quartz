@@ -1,0 +1,1 @@
+Directional Dips are a type of dip that uses a vector to set the intention of the 

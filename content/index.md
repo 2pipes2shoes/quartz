@@ -3,7 +3,7 @@ title: Welcome
 ---
 
 ### Jump Right in Here: [[Pillars]]
-### [[How to Use This]]
+### Guide: [[How to Use This]]
 
 ## What is The Shared Center?
 This is the online release of the Fusion Framework.  This is to introduce how we are thinking about and teaching Fusion partner dance.  We are offering our interpretation of the fundamental pillars of partner dance to the Fusion community at large as we’d love to see these more widely understood and taught.  This is a living document that will be edited as our understanding evolves, changes and adapts to the fluid art form and community that forms Fusion partner dance. We believe thinking about Fusion from a principles’ perspective can give us a shared understanding of how we can co-create fun and safe dances together.  The framework also empowers dancers to more easefully learn other partner dances.
@@ -39,4 +39,3 @@ This Fusion Framework enables dancers to communicate a rich landscape of movemen
 If you have reached this point you are ready for:
 [[How to Use This]]
 [[Pillars]]
-don't worry

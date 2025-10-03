@@ -1,0 +1,1 @@
+A Flyer is the person who's weight is supported during a weight sharing move.

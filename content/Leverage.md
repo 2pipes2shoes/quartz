@@ -8,7 +8,7 @@ We use leverage instead of other possible terms to be clear that it has no inher
 [[Compression]]
 [[Change of Frame Lead]]
 [[Tether and Tether Length]]
-[[Leverage Based Frames|Leverage Based Frame]]
+[[Leverage Based Frame|Leverage Based Frame]]
 
 
 
